@@ -1,5 +1,6 @@
 # Plotto
 Space-time plotter
-If Plotto has been used in your research, please, acknowledge it in your academic publication. I suggest citing:
 
-Pavel S. Smelov (2016). Plotto: Space-time plotter [Software].
+It is required the use of Plotto to be cited in the references or bibliography, in any publications of results produced using that software:
+
+> Pavel S. Smelov (2016). Plotto: Space-time plotter [Software].
